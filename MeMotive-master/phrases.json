@@ -1,0 +1,32 @@
+
+[{
+        "id": 0,
+        "quote": "Sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+        "author": "Winston Churchill",
+        "image": "img/maqplan.jpg"
+    },
+    {
+        "id": 1,
+        "quote": "A única maneira de fazer um excelente trabalho é amar o que você faz.",
+        "author": "Steve Jobs",
+        "image": "img/SteveJobs.jpg"
+    },
+    {
+        "id": 2,
+        "quote": "Não importa o quão devagar você vá, desde que não pare.",
+        "author": "Confúcio",
+        "image": "img/Confucio.jpg"
+    },
+    {
+        "id": 3,
+        "quote": "Acredite que você pode, assim você já está no meio do caminho.",
+        "author": "Theodore Roosevelt",
+        "image": "img/TheodoreRoosevelt.jpg"
+    }
+    {
+        "id": 4,
+        "quote": "Como ver os relatórios no pdv",
+        "author": "Theodore Roosevelt",
+        "Videos": "MeMotive-master/Videos/5ª Como ver os relatórios no pdv.mp4"
+    }
+]
